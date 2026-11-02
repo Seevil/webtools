@@ -1,0 +1,7 @@
+/SiteClone.exe
+/downloads/
+/*.zip
+/siteclone-config.json
+/coverage.out
+/build/
+/.mygo/
